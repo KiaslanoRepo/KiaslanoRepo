@@ -1,0 +1,10 @@
+- The Republic of Kiaslano
+-
+- An island country located around 256km west-southwest of Mexico's Baja California. 
+- 
+- This account is for the storage and administration of the country's information. 
+- 
+-
+-
+- This base readme file is not subject to change and will not be used as the repository 
+- readme. 
